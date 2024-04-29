@@ -47,7 +47,7 @@ function App() {
           value={username}
           onChange={e => setUsername(e.target.value)}
         />
-        <button type="submit">명언 저장</button>
+        <button type="submit">명언_저장</button>
       </form>
     </div>
   );
